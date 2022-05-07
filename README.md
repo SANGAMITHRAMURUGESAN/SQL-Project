@@ -1,4 +1,5 @@
-# SQL-Project
+# SCREATING AN E-COMMERCE PLATFORM ANALYSIS![image](https://user-images.githubusercontent.com/78456699/167267165-2dfced09-9cfa-44ab-828b-fb1179b53ceb.png)
+
 Objective:
 
 Here we are building a data model that supports the ecommerce shopping experience from selecting the product via the application until the product reaches the customer. To design different strategies to improve the overall business of an e-commerce platform with respect to the products and the merchant side. ![image](https://user-images.githubusercontent.com/78456699/167267081-0daf1b17-b2a3-4953-be39-31043a0b33fe.png)
